@@ -1,5 +1,5 @@
 <template>
-  <div class="yo-button" @click="selectButton">按钮</div>
+  <div class="yo-button" @click="selectButton">测试按钮</div>
 </template>
 
 <script setup>
