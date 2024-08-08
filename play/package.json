@@ -1,0 +1,24 @@
+{
+  "name": "play",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "2.7.5",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@iconify-json/ep": "^1.1.16",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "1.77.4",
+    "unplugin-auto-import": "^0.18.2",
+    "unplugin-icons": "^0.19.2",
+    "unplugin-vue-components": "^0.27.3",
+    "vite": "^5.2.8"
+  }
+}

@@ -1,0 +1,4 @@
+packages:
+  - play #组件测试项目
+  - docs #组件文档项目
+  - "packages/**" #组件源文件
